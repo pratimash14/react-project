@@ -1,0 +1,57 @@
+.abcWOW{
+    visibility: visible; animation-duration: 800ms; animation-delay: 600ms; animation-name: fadeInUp;
+}
+.abcWOW1{
+    visibility: visible; animation-duration: 800ms; animation-delay: 200ms; animation-name: fadeInUp;
+}
+.abcWOW2{
+    visibility: visible; animation-duration: 800ms; animation-delay: 400ms; animation-name: fadeInUp;
+}
+
+.transNone{
+    transform: none;
+}
+
+.stickyians1{
+    padding-top: 0px; padding-bottom: 1px; position: static; transform: none;
+}
+
+.stickyians2{
+    padding-top: 0px; padding-bottom: 1px; position: static; transform: none; top: 0px; left: 1293.5px;
+}
+.stickyians3{
+    position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;
+}
+.stickyians4{
+    position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians5{
+    position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians6{
+    position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 340px; height: 1835px;
+}
+.stickyians7{
+    position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%
+}
+.stickyians8{
+    position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians9{
+    position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians10{
+    position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians11{
+    position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 1000px; height: 1835px;
+}
+.stickyians12{
+    position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;
+}
+.stickyians13{
+    position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%;
+}
+.stickyians14{
+    position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;
+}
